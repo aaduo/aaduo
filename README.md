@@ -4,7 +4,7 @@
 
 ## My GitHub Contributions
 
-![](https://raw.githubusercontent.com/aaduo/aaduo/master/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/aaduo/aaduo/main/assets/github-contribution-grid-snake.svg)
 
 ## GitHub Stats
 
